@@ -1,0 +1,5 @@
+venv/
+config/__init__.py
+config/asgi.py
+config/wsgi.py
+bookmark/migrations/__init__.py
